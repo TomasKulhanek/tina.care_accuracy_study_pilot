@@ -1,0 +1,31 @@
+[
+    {
+        "time": "2024-10-09T12:21:07.208Z",
+        "value": 81,
+        "description": "lateral left, side lying on left side",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-09T12:20:13.865Z",
+        "value": 81,
+        "description": "lateral left, side lying on left side",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-09T12:19:56.787Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-09T11:17:10.208Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-09T11:16:57.746Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-LF1-JF"
+    }]

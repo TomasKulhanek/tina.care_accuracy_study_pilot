@@ -1,0 +1,12 @@
+[
+{"time":"2024-09-16T10:18:41.824Z","value":10,"description":"supine or dorsal recumbent, on back","device":"TINA-FTN-11"},
+{"time":"2024-09-16T10:18:31.824Z","value":10,"description":"supine or dorsal recumbent, on back","device":"TINA-FTN-11"},
+{"time":"2024-09-16T10:17:38.368Z","value":20,"description":"Fowler's or semi-sitting, head elevated 15-60 degrees","device":"TINA-FTN-11"},
+{"time":"2024-09-16T10:07:12.057Z","value":90,"description":"sitted on bed, legs on floor","device":"TINA-FTN-11"},
+{"time":"2024-09-16T10:07:06.568Z","value":20,"description":"Fowler's or semi-sitting, head elevated 15-60 degrees","device":"TINA-FTN-11"},
+{"time":"2024-09-16T10:04:21.121Z","value":90,"description":"sitted on bed, legs on floor","device":"TINA-FTN-11"},
+{"time":"2024-09-16T10:03:42.361Z","value":0,"description":"2nd person left bed","device":"TINA-FTN-11"},
+{"time":"2024-09-16T10:03:35.059Z","value":100,"description":"2nd person near bed","device":"TINA-FTN-11"},
+{"time":"2024-09-16T09:45:05.746Z","value":0,"description":"2nd person left bed","device":"TINA-FTN-11"},
+{"time":"2024-09-16T09:45:03.813Z","value":100,"description":"2nd person near bed","device":"TINA-FTN-11"},
+{"time":"2024-09-16T09:43:11.492Z","value":0,"description":"empty bed","device":"TINA-FTN-11"}]

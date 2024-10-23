@@ -1,0 +1,104 @@
+[
+    {
+        "time": "2024-09-23T18:59:50.286Z",
+        "value": 20,
+        "description": "Fowler's or semi-sitting, head elevated 15-60 degrees",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:58:20.235Z",
+        "value": 81,
+        "description": "lateral left, side lying on left side",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:55:54.422Z",
+        "value": 20,
+        "description": "Fowler's or semi-sitting, head elevated 15-60 degrees",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:52:58.558Z",
+        "value": 10,
+        "description": "supine or dorsal recumbent, on back",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:52:47.485Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:52:28.881Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:51:00.686Z",
+        "value": 10,
+        "description": "supine or dorsal recumbent, on back",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:46:30.814Z",
+        "value": 20,
+        "description": "Fowler's or semi-sitting, head elevated 15-60 degrees",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:45:48.710Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:43:38.901Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:43:21.849Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:42:45.443Z",
+        "value": 10,
+        "description": "supine or dorsal recumbent, on back",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:37:00.321Z",
+        "value": 81,
+        "description": "lateral left, side lying on left side",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:34:16.006Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:34:01.105Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:30:27.730Z",
+        "value": 10,
+        "description": "supine or dorsal recumbent, on back",
+        "device": "TINA-JOZEF1"
+    },
+    {
+        "time": "2024-09-23T18:30:06.826Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-JOZEF1"
+    }
+]

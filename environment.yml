@@ -1,0 +1,5 @@
+name: tina.care-accuracy_study_pilot
+dependencies:
+    - pandas 
+    - matplotlib 
+    - scikit-learn

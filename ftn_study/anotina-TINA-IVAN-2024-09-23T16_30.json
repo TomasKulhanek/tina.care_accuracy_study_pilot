@@ -1,0 +1,92 @@
+[
+    {
+        "time": "2024-09-23T16:29:32.283Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:29:22.283Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:29:01.531Z",
+        "value": 10,
+        "description": "supine or dorsal recumbent, on back",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:27:26.776Z",
+        "value": 81,
+        "description": "lateral left, side lying on left side",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:25:28.081Z",
+        "value": 10,
+        "description": "supine or dorsal recumbent, on back",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:24:23.436Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:23:38.246Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:23:13.109Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:22:52.989Z",
+        "value": 20,
+        "description": "Fowler's or semi-sitting, head elevated 15-60 degrees",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:19:55.461Z",
+        "value": 81,
+        "description": "lateral left, side lying on left side",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:19:42.798Z",
+        "value": 20,
+        "description": "Fowler's or semi-sitting, head elevated 15-60 degrees",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:16:41.861Z",
+        "value": 10,
+        "description": "supine or dorsal recumbent, on back",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:13:45.238Z",
+        "value": 20,
+        "description": "Fowler's or semi-sitting, head elevated 15-60 degrees",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:12:16.161Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-IVAN"
+    },
+    {
+        "time": "2024-09-23T16:10:35.858Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-IVAN"
+    }
+]

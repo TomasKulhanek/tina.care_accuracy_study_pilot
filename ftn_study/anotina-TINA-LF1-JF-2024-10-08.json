@@ -1,0 +1,7 @@
+[{"time":"2024-09-29T19:22:03.861Z","value":0,"description":"empty bed","device":"TINA-LF1-JF"},
+{"time":"2024-09-29T18:57:56.213Z","value":0,"description":"empty bed","device":"TINA-LF1-JF"},
+{"time":"2024-09-29T18:57:10.428Z","value":90,"description":"sitted on bed, legs on floor","device":"TINA-LF1-JF"},
+{"time":"2024-09-29T18:56:48.038Z","value":81,"description":"2nd person left bed","device":"TINA-LF1-JF"},
+{"time":"2024-09-29T18:56:23.522Z","value":181,"description":"2nd person near bed","device":"TINA-LF1-JF"},
+{"time":"2024-09-29T18:56:17.232Z","value":81,"description":"lateral left, side lying on left side","device":"TINA-LF1-JF"},
+{"time":"2024-09-29T18:55:43.287Z","value":81,"description":"lateral left, side lying on left side","device":"TINA-LF1-JF"}]

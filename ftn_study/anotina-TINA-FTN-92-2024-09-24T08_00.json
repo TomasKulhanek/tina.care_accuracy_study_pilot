@@ -1,0 +1,86 @@
+[
+    {
+        "time": "2024-09-24T07:56:59.178Z",
+        "value": 20,
+        "description": "Fowler's or semi-sitting, head elevated 15-60 degrees",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:56:13.645Z",
+        "value": 90,
+        "description": "2nd person left bed",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:56:11.991Z",
+        "value": 190,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:55:15.550Z",
+        "value": 100,
+        "description": "2nd person near bed",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:54:20.038Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:52:33.729Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:52:17.632Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:42:17.700Z",
+        "value": 0,
+        "description": "2nd person left bed",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:42:08.906Z",
+        "value": 100,
+        "description": "2nd person near bed",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:37:53.978Z",
+        "value": 0,
+        "description": "2nd person left bed",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:37:35.791Z",
+        "value": 100,
+        "description": "2nd person near bed",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:31:48.349Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:31:06.871Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-FTN-92"
+    },
+    {
+        "time": "2024-09-24T07:31:03.749Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-FTN-92"
+    }
+]

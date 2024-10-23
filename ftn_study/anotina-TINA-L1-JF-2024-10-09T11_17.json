@@ -1,0 +1,44 @@
+[
+    {
+        "time": "2024-10-08T20:21:20.123Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-08T20:20:58.761Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-08T19:47:26.539Z",
+        "value": 81,
+        "description": "lateral left, side lying on left side",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-08T19:44:02.615Z",
+        "value": 81,
+        "description": "lateral left, side lying on left side",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-08T19:43:41.124Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-08T18:54:52.920Z",
+        "value": 0,
+        "description": "empty bed",
+        "device": "TINA-LF1-JF"
+    },
+    {
+        "time": "2024-10-08T18:54:30.924Z",
+        "value": 90,
+        "description": "sitted on bed, legs on floor",
+        "device": "TINA-LF1-JF"
+    }
+]
