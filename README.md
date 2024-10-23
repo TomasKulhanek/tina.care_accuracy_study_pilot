@@ -3,4 +3,4 @@ This notebook with scripts and attached data are raw data and scripts to process
 
 # Usage in cloud computing service - MyBinder
 The notebook can be interactively launched via MyBinder service: 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TomasKulhanek/tina.care-accuracy_study_pilot/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TomasKulhanek/tina.care_accuracy_study_pilot/main)
