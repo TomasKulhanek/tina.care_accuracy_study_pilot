@@ -1,6 +1,6 @@
 # tina.care&reg; Pilot Accuracy Study Data
 
-This repository contains data in folder `ftn_study` and scripts in notebook `index.ipynb` that was used in the draft article [1] evaluating tina.care&reg; sensor (https://tina.care/) developed by Bonitoo s.r.o. registered in Czech Republic.
+This repository contains data in folder `ftn_study` and scripts in notebook `index.ipynb` that was used in the draft article [1] evaluating tina.care&reg; sensor (https://tina.care/) developed by Bonitoo s.r.o.(https://bonitoo.io).
 
 
 # Usage in cloud computing service - MyBinder
